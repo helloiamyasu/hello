@@ -1,3 +1,2 @@
 # hello
-
-勉強しています。
+README
